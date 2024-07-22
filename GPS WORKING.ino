@@ -4,8 +4,8 @@
 #include <TinyGPS++.h>
 #include <ESP8266WiFi.h>
  
-const char* ssid = "JKE";
-const char* password = "Asdfgh2014";
+const char* ssid = "";
+const char* password = "";
 
 char* text;
 int value;
